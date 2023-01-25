@@ -14,7 +14,7 @@ You will need to have both SAMMI Core as well as OBS installed & linked to one a
 
 Each interaction will need its own HUD text box in OBS. Each interaction will also require you obtain a video or image to represent it, and require you accuratley call the files locally in order to change the media in the OBS source (CHOICE: you could have a unique OBS Source for each interaction rather than have them all cycle images through a single OBS source). To call files, use the format "HardDriveLetter:/FolderName/FolderName/FileName". The number of nested folders does not matter. 
 
-All sources called "HUD ..." refer to the text boxs that are updated by Alert buttons but have their visibility toggeled by the HUD button to have your most recent contributors name cycle somewhere on screen. "Saving to Credits" Section refers to an optional button end-of-stream credits of all your contributors for that session. For more information, see button "End Credits". 
+All audio files need to be saved as ".OGG". All sources called "HUD ..." refer to the text boxs that are updated by Alert buttons but have their visibility toggeled by the HUD button to have your most recent contributors name cycle somewhere on screen. "Saving to Credits" Section refers to an optional button end-of-stream credits of all your contributors for that session. For more information, see button "End Credits". 
 
 
 HOW TO CUSTOMIZE:
